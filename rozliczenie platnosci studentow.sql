@@ -526,4 +526,5 @@ on ddd.UF_TRA_ID = dd.UF_TRA_ID and ddd.tresc = 'Odsetki'
 ;
 
 
+-- oto jest odgałęzienie mojego projektu
 
