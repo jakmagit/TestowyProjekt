@@ -510,6 +510,7 @@ on d.UF_DOKKS_ID = dd.UF_DOKKS_ID
         or (dd.ma < 0 and dd.Tresc = 'Anulowanie rozliczenia')
          )  
 
+
 inner join USP_F_TRANSAKCJE tt
 on tt.ID = dd.UF_TRA_ID
 
